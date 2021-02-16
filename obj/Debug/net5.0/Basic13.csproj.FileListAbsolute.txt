@@ -1,0 +1,15 @@
+/Users/sujungchoi/Desktop/Coding/C#/Basic13/bin/Debug/net5.0/Basic13.deps.json
+/Users/sujungchoi/Desktop/Coding/C#/Basic13/bin/Debug/net5.0/Basic13.runtimeconfig.json
+/Users/sujungchoi/Desktop/Coding/C#/Basic13/bin/Debug/net5.0/Basic13.runtimeconfig.dev.json
+/Users/sujungchoi/Desktop/Coding/C#/Basic13/bin/Debug/net5.0/Basic13.dll
+/Users/sujungchoi/Desktop/Coding/C#/Basic13/bin/Debug/net5.0/ref/Basic13.dll
+/Users/sujungchoi/Desktop/Coding/C#/Basic13/bin/Debug/net5.0/Basic13.pdb
+/Users/sujungchoi/Desktop/Coding/C#/Basic13/obj/Debug/net5.0/Basic13.csprojAssemblyReference.cache
+/Users/sujungchoi/Desktop/Coding/C#/Basic13/obj/Debug/net5.0/Basic13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sujungchoi/Desktop/Coding/C#/Basic13/obj/Debug/net5.0/Basic13.AssemblyInfoInputs.cache
+/Users/sujungchoi/Desktop/Coding/C#/Basic13/obj/Debug/net5.0/Basic13.AssemblyInfo.cs
+/Users/sujungchoi/Desktop/Coding/C#/Basic13/obj/Debug/net5.0/Basic13.csproj.CoreCompileInputs.cache
+/Users/sujungchoi/Desktop/Coding/C#/Basic13/obj/Debug/net5.0/Basic13.dll
+/Users/sujungchoi/Desktop/Coding/C#/Basic13/obj/Debug/net5.0/ref/Basic13.dll
+/Users/sujungchoi/Desktop/Coding/C#/Basic13/obj/Debug/net5.0/Basic13.pdb
+/Users/sujungchoi/Desktop/Coding/C#/Basic13/obj/Debug/net5.0/Basic13.genruntimeconfig.cache
